@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning Java<br> 🎓 I'm Currently Studying in Bankura Christian College<br>💬 Ask me about Web Design
+🔭 I’m currently working on Full Stack Development and Data Science<br>🌱 I’m currently learning Java<br> 🎓 I'm Currently Studying in Central University of Punjab<br>💬 Ask me about Web Design
 
 
 ## 🌐 Socials:
